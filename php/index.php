@@ -1,6 +1,6 @@
 <?php
 
-echo "teste";
-1234
+echo "teste teste";
+
 
 ?>
